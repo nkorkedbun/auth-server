@@ -33,7 +33,8 @@ public class ApplicationSecurity {
             "/v3/api-docs/**",
             "/swagger-resources/**",
             "/swagger-ui/**",
-            "api-docs/**"
+            "api-docs/**",
+            "/error"
     };
 
     @Bean
